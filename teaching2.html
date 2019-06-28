@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Zachary Nolan</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans|Lato&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- Master Container -->
+<div class="wrapper">
+
+    <!-- Header -->
+    <header>
+        <a href="index.html"><h1>Zachary Nolan</h1></a>
+        <h2>ph.d. candidate, duke university</h2>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <!-- Mobile Menu Button -->
+        <a href="javascript:void(0)" onclick="myFunction()" id="menu_button">MENU</a>
+
+        <!-- Mobile Dropdown Menu -->
+        <div id="mobile_nav">
+            <a href="index.html" class="mobile_link" id="start_mobile_link">HOME</a>
+            <a href="cv.html" class="mobile_link">CV</a>
+            <a href="research.html" class="mobile_link">RESEARCH</a>
+            <a href="teaching.html" class="mobile_link" id="end_mobile_link">TEACHING</a>
+        </div>
+
+        <!-- Web Navigation Links -->
+        <span id="nav_span">
+            <a href="index.html" class="web_link">HOME</a>
+            <a href="cv.html" class="web_link">CV</a>
+            <a href="research.html" class="web_link">RESEARCH</a>
+            <a href="teaching.html" class="web_link">TEACHING</a>
+        </span>
+    </nav>
+
+    <!-- Main -->
+    <main id="teaching">
+
+        <!-- Job Market Paper -->
+        <div id="teaching_section">
+            <h3>Working Papers</h3>
+
+            <a href="#"><h4><span class="title">BIG FANCY TITLE HERE</span></h4></a>
+            <h5>JOB MARKET PAPER</h5>
+            <p class="desc_p">
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+            </p>
+
+            <a href="#"><h4><span class="title">HERE'S MY OTHER PAPER TITLE</span></h4></a>
+            <h5>with Jon Williams, Fancy Aviv, etc.</h5>
+            <p class="desc_p">
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+            </p>
+
+            <a href="#"><h4><span class="title">HERE'S A THIRD PAPER TITLE</span></h4></a>
+            <h5>with Jon Williams, Fancy Aviv, etc.</h5>
+            <p class="desc_p">
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+                lorem ipsum blah blah lorem ipsum blah blah lorem ipsum blah blah 
+            </p>
+
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        &copy; ZACHARY NOLAN, 2019
+    </footer>
+
+</div>
+
+<script>
+    function myFunction() {
+        var x = document.getElementById("mobile_nav");
+        if (x.className.indexOf("mobile_nav_show") == -1) {
+            x.className += " mobile_nav_show";
+        } else { 
+            x.className = x.className.replace(" mobile_nav_show", "");
+        }
+    }
+</script>
+
+
+
+
+</body>
+</html>
