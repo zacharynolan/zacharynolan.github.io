@@ -72,6 +72,18 @@ h5 {
 
 
 
+/* Body Links */
+.body_link {
+    color: #2d6886;
+}
+.body_link:hover {
+    background: #c6dfec;
+}
+
+
+
+
+
 /* Navigation */
 nav {
     grid-area: nav;
