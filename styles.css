@@ -243,7 +243,6 @@ main {
 }
 #works_in_progress {
     grid-area: works_in_progress;
-    display: none;
 }
 
 
