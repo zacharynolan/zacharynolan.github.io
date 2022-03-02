@@ -189,7 +189,7 @@ main {
 
 
 /* Shared Styles */
-.title:hover {
+.title_link:hover {
     background: #c6dfec;
 }
 .desc_p {
@@ -230,12 +230,19 @@ main {
 #research {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: auto auto;
+    grid-template-rows: auto auto auto 1fr;
     grid-template-areas:
+    "publications"
     "working_papers"
-    "works_in_progress";
+    "works_in_progress"
+    "space";
 }
-#working_papers {
+#publications {
+    grid-area: publications;
+}
+#publications h3 {
+    margin: 2em 0 1em 0;
+}#working_papers {
     grid-area: working_papers;
 }
 #working_papers h3 {
@@ -244,7 +251,12 @@ main {
 #works_in_progress {
     grid-area: works_in_progress;
 }
-
+#works_in_progress h3 {
+    margin: 2em 0 1em 0;
+}
+#space {
+    grid-area: space;
+}
 
 
 
