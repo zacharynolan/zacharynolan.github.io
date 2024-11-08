@@ -234,20 +234,21 @@ main {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto auto 1fr;
     grid-template-areas:
-    "publications"
     "working_papers"
+    "publications"
     "works_in_progress"
     "space";
+}
+#working_papers {
+    grid-area: working_papers;
+}
+#working_papers h3 {
+    margin: 2em 0 1em 0;
 }
 #publications {
     grid-area: publications;
 }
 #publications h3 {
-    margin: 2em 0 1em 0;
-}#working_papers {
-    grid-area: working_papers;
-}
-#working_papers h3 {
     margin: 2em 0 1em 0;
 }
 #works_in_progress {
