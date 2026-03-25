@@ -1,0 +1,200 @@
+"id","starbucks_rating","blackrock_rating","presta_rating","exoroast_rating","caffeluce_rating","visit_freq","avg_spend","condition","local_intent"
+1,6,7,5,4,5,"Multiple times/week",21.12,"Control",3
+2,2,5,5,4,6,"Less than once/week",7.21,"Treatment",1
+3,2,1,5,2,3,"About once/week",14.67,"Control",4
+4,1,3,3,4,4,"Less than once/week",8.56,"Control",4
+5,5,4,6,5,7,"About once/week",12.09,"Treatment",5
+6,2,3,1,2,2,"About once/week",14.11,"Treatment",5
+7,5,2,1,2,2,"Less than once/week",4.02,"Treatment",6
+8,4,5,2,2,5,"Less than once/week",8.69,"Control",4
+9,1,5,4,4,6,"About once/week",14.14,"Treatment",6
+10,2,3,4,4,5,"About once/week",20.16,"Treatment",4
+11,6,6,6,5,7,"About once/week",20.53,"Treatment",5
+12,4,5,5,4,6,"About once/week",17.26,"Control",4
+13,7,7,7,5,6,"About once/week",15.32,"Control",6
+14,4,1,1,4,2,"About once/week",9.38,"Control",5
+15,7,4,7,7,7,"About once/week",17.03,"Treatment",6
+16,5,5,6,6,5,"About once/week",18.54,"Treatment",5
+17,6,7,7,7,4,"About once/week",19.2,"Control",6
+18,4,5,5,5,6,"Multiple times/week",24.26,"Treatment",4
+19,4,4,6,3,4,"Multiple times/week",27.07,"Control",4
+20,3,3,3,3,4,"About once/week",12.74,"Treatment",6
+21,6,6,4,5,2,"Multiple times/week",22.74,"Control",3
+22,3,1,3,4,3,"About once/week",12.25,"Treatment",5
+23,3,5,5,3,3,"Less than once/week",7.47,"Treatment",4
+24,1,4,2,4,4,"About once/week",15.72,"Treatment",7
+25,4,5,6,5,2,"About once/week",15.14,"Treatment",5
+26,5,6,7,7,6,"Multiple times/week",17.33,"Treatment",5
+27,1,1,2,1,1,"Multiple times/week",13.46,"Control",6
+28,6,5,6,3,3,"About once/week",7.92,"Treatment",3
+29,5,3,4,4,4,"Less than once/week",13.08,"Treatment",4
+30,1,2,2,2,2,"Less than once/week",10.79,"Treatment",7
+31,1,4,2,2,3,"About once/week",16.75,"Control",6
+32,3,3,2,1,3,"Less than once/week",13.23,"Treatment",4
+33,5,4,5,7,5,"Less than once/week",9.18,"Treatment",5
+34,1,2,3,2,2,"Less than once/week",7.79,"Control",4
+35,1,2,4,3,2,"About once/week",13.91,"Treatment",3
+36,6,5,3,3,5,"About once/week",12.33,"Control",3
+37,1,3,2,3,2,"Less than once/week",7.78,"Control",2
+38,2,1,1,2,2,"Less than once/week",11.07,"Control",6
+39,3,6,7,4,4,"About once/week",21.83,"Control",5
+40,2,2,3,5,3,"Less than once/week",5.21,"Treatment",1
+41,1,1,1,4,4,"Multiple times/week",27.05,"Control",3
+42,5,3,5,5,5,"Multiple times/week",18.57,"Treatment",7
+43,5,5,6,7,6,"Multiple times/week",24.54,"Control",4
+44,5,5,7,7,3,"Multiple times/week",22.51,"Control",2
+45,5,4,4,1,3,"About once/week",12.68,"Control",5
+46,4,5,3,3,4,"Multiple times/week",25.68,"Treatment",5
+47,6,6,7,7,7,"About once/week",13.18,"Treatment",5
+48,4,5,5,6,6,"About once/week",11.11,"Treatment",4
+49,1,1,2,3,3,"Less than once/week",8.13,"Control",5
+50,7,5,3,6,5,"Less than once/week",9.64,"Treatment",6
+51,1,1,1,1,2,"About once/week",18.3,"Control",3
+52,4,4,5,7,4,"About once/week",9.09,"Treatment",4
+53,4,3,1,4,5,"Multiple times/week",20.36,"Control",4
+54,7,5,6,7,4,"About once/week",16.89,"Control",3
+55,5,7,6,7,7,"About once/week",20.6,"Control",6
+56,5,2,4,4,5,"Multiple times/week",22.33,"Treatment",5
+57,4,3,5,4,5,"About once/week",15.32,"Treatment",4
+58,7,7,5,6,6,"Multiple times/week",28.03,"Control",4
+59,1,1,1,1,1,"About once/week",13.92,"Control",4
+60,7,3,5,7,7,"About once/week",16.83,"Control",5
+61,5,5,5,6,5,"About once/week",18.91,"Treatment",4
+62,1,1,2,2,2,"Multiple times/week",22.02,"Treatment",6
+63,3,4,3,3,4,"About once/week",14.31,"Control",5
+64,2,2,4,6,5,"Multiple times/week",21.54,"Control",4
+65,2,5,2,3,5,"About once/week",17.54,"Treatment",6
+66,4,4,4,3,6,"Less than once/week",8.12,"Treatment",5
+67,3,1,3,4,4,"About once/week",20.6,"Treatment",5
+68,2,2,3,3,3,"Multiple times/week",20.31,"Control",4
+69,1,1,3,4,1,"Multiple times/week",20.17,"Treatment",6
+70,5,5,5,3,5,"About once/week",16.6,"Control",6
+71,1,1,1,2,4,"Less than once/week",11.23,"Control",3
+72,1,3,4,3,5,"About once/week",14.86,"Treatment",5
+73,1,3,3,2,6,"Less than once/week",4.94,"Treatment",4
+74,5,5,6,6,5,"About once/week",15.74,"Control",4
+75,4,4,2,1,2,"Multiple times/week",23.09,"Control",5
+76,1,1,1,2,1,"Multiple times/week",23.1,"Control",3
+77,4,2,3,5,3,"About once/week",15.9,"Control",4
+78,5,5,5,5,6,"About once/week",14.92,"Control",3
+79,6,6,5,7,7,"About once/week",13.99,"Treatment",7
+80,7,2,4,1,4,"About once/week",17.12,"Control",2
+81,5,4,3,6,3,"About once/week",16.24,"Control",4
+82,2,3,7,4,5,"About once/week",19.57,"Treatment",4
+83,4,5,6,3,4,"About once/week",10.76,"Treatment",5
+84,6,7,5,6,6,"About once/week",16.89,"Control",4
+85,5,5,7,7,6,"Multiple times/week",25.67,"Treatment",5
+86,6,6,7,7,6,"Less than once/week",7.8,"Treatment",4
+87,1,4,6,3,5,"Less than once/week",9.47,"Treatment",6
+88,5,5,5,2,4,"Less than once/week",5.4,"Control",4
+89,5,5,5,4,6,"Multiple times/week",19.83,"Treatment",5
+90,3,2,3,1,2,"Multiple times/week",21.42,"Control",2
+91,2,7,6,5,5,"Multiple times/week",28.63,"Control",5
+92,4,6,3,6,5,"About once/week",13.95,"Treatment",4
+93,5,3,7,3,4,"About once/week",13.53,"Treatment",7
+94,2,3,3,5,2,"Multiple times/week",26.12,"Control",6
+95,3,5,3,4,4,"About once/week",17.52,"Control",5
+96,1,2,1,1,3,"About once/week",16.57,"Control",4
+97,3,3,6,1,4,"Multiple times/week",26.26,"Control",4
+98,4,3,6,5,6,"Less than once/week",5.94,"Control",4
+99,4,4,4,3,3,"Multiple times/week",24.33,"Treatment",3
+100,4,4,3,2,3,"About once/week",13.85,"Control",5
+101,5,4,6,7,7,"About once/week",9.1,"Control",3
+102,4,3,1,4,1,"Less than once/week",9.83,"Control",2
+103,4,6,7,7,6,"Less than once/week",7.92,"Treatment",4
+104,4,1,2,4,2,"About once/week",11.92,"Control",3
+105,1,1,1,1,3,"Multiple times/week",28.13,"Control",3
+106,3,5,4,5,5,"About once/week",18,"Control",5
+107,2,3,5,7,4,"Multiple times/week",24.37,"Treatment",4
+108,3,5,6,6,6,"About once/week",10.99,"Treatment",3
+109,4,5,3,5,5,"About once/week",13.56,"Control",3
+110,6,5,6,4,6,"About once/week",15.42,"Treatment",6
+111,3,4,5,5,5,"Less than once/week",10.18,"Control",5
+112,5,6,3,5,3,"Less than once/week",7.35,"Treatment",5
+113,3,6,5,4,5,"Multiple times/week",31.99,"Treatment",6
+114,6,6,5,5,6,"Less than once/week",9.53,"Treatment",6
+115,7,6,7,5,7,"About once/week",21.5,"Control",6
+116,3,3,2,3,4,"Multiple times/week",22.19,"Treatment",7
+117,3,2,5,6,7,"Less than once/week",5.21,"Treatment",4
+118,2,3,3,6,3,"About once/week",18.83,"Treatment",3
+119,2,2,3,2,2,"Less than once/week",7.59,"Control",4
+120,3,7,6,6,7,"Multiple times/week",16.92,"Treatment",3
+121,1,3,5,2,3,"About once/week",16.13,"Treatment",5
+122,3,3,6,7,7,"About once/week",11.25,"Treatment",3
+123,3,7,6,5,6,"Multiple times/week",21.01,"Treatment",7
+124,6,6,7,7,6,"Multiple times/week",24.1,"Treatment",7
+125,6,6,5,6,6,"About once/week",13.87,"Control",4
+126,4,1,1,1,3,"Less than once/week",10.2,"Control",4
+127,4,3,6,6,6,"About once/week",20.05,"Treatment",4
+128,4,3,4,5,4,"Multiple times/week",23.28,"Treatment",4
+129,5,5,6,5,5,"Less than once/week",7.55,"Control",4
+130,4,4,6,4,5,"Multiple times/week",29.51,"Control",4
+131,4,5,6,4,6,"Multiple times/week",17.4,"Treatment",6
+132,4,2,6,5,3,"Less than once/week",8.91,"Treatment",4
+133,1,1,1,1,3,"Multiple times/week",23.81,"Treatment",2
+134,7,5,5,7,6,"About once/week",14.19,"Control",1
+135,5,7,6,7,6,"Multiple times/week",27.65,"Control",3
+136,4,5,4,4,4,"Multiple times/week",18.01,"Control",1
+137,4,6,5,2,3,"Less than once/week",8.28,"Treatment",5
+138,3,7,5,4,5,"Multiple times/week",23.53,"Treatment",4
+139,4,2,3,4,4,"About once/week",17.74,"Treatment",4
+140,4,6,5,5,5,"Multiple times/week",28.02,"Treatment",5
+141,1,2,2,3,3,"About once/week",11.14,"Treatment",7
+142,2,2,2,1,1,"About once/week",18.11,"Control",5
+143,7,6,6,7,7,"Less than once/week",8.85,"Control",6
+144,5,5,4,5,3,"About once/week",18.18,"Treatment",6
+145,5,7,4,6,5,"About once/week",16,"Treatment",4
+146,4,3,5,4,4,"About once/week",18.47,"Treatment",3
+147,3,4,6,5,7,"Less than once/week",8.94,"Treatment",3
+148,2,1,4,1,1,"About once/week",15.46,"Control",5
+149,3,3,4,3,2,"Multiple times/week",17.6,"Control",3
+150,7,5,7,5,7,"Multiple times/week",21.61,"Treatment",6
+151,4,5,5,5,5,"About once/week",15.05,"Treatment",7
+152,2,5,4,5,5,"Multiple times/week",22.7,"Treatment",7
+153,3,4,6,5,6,"About once/week",13.13,"Control",4
+154,4,3,5,4,3,"About once/week",14.29,"Treatment",3
+155,3,5,4,3,4,"Multiple times/week",26.73,"Treatment",4
+156,3,3,4,3,5,"About once/week",15.48,"Control",2
+157,3,5,4,1,4,"About once/week",14.2,"Treatment",7
+158,7,2,4,2,4,"Less than once/week",7.94,"Control",5
+159,5,6,3,5,7,"Less than once/week",10,"Control",4
+160,5,3,5,4,6,"About once/week",19.67,"Control",5
+161,3,4,5,6,5,"Less than once/week",6.76,"Control",5
+162,7,7,7,6,7,"Multiple times/week",24.18,"Treatment",4
+163,4,7,6,4,6,"Multiple times/week",11.92,"Control",4
+164,7,5,6,7,4,"Multiple times/week",32.16,"Treatment",6
+165,6,7,7,5,5,"Multiple times/week",26.41,"Control",6
+166,6,6,7,6,5,"About once/week",14.91,"Treatment",6
+167,6,7,7,7,7,"About once/week",20.53,"Control",5
+168,3,4,5,4,7,"Less than once/week",8.32,"Control",5
+169,1,3,5,5,2,"About once/week",15.86,"Treatment",4
+170,4,3,2,4,4,"Multiple times/week",15.89,"Treatment",4
+171,4,2,3,1,1,"About once/week",16.78,"Control",5
+172,2,3,3,2,6,"Multiple times/week",26.64,"Control",5
+173,6,7,2,5,2,"Less than once/week",5.96,"Control",3
+174,4,5,3,6,5,"About once/week",17.15,"Control",6
+175,2,2,4,3,2,"Less than once/week",7.06,"Treatment",6
+176,4,4,1,3,5,"About once/week",14.34,"Control",4
+177,6,7,6,7,6,"Less than once/week",3.01,"Treatment",6
+178,4,5,2,4,7,"Less than once/week",7.56,"Control",6
+179,2,4,3,5,3,"Less than once/week",3.49,"Control",3
+180,2,2,5,3,3,"About once/week",15.71,"Control",5
+181,4,6,4,5,6,"Less than once/week",11.13,"Treatment",3
+182,1,1,2,4,2,"About once/week",13.87,"Control",6
+183,3,3,4,6,7,"Less than once/week",8.03,"Treatment",5
+184,5,7,7,6,5,"Multiple times/week",18.79,"Control",5
+185,3,5,6,6,7,"About once/week",12.6,"Treatment",6
+186,6,7,7,7,7,"Multiple times/week",18.32,"Treatment",3
+187,3,5,6,3,5,"Less than once/week",8.63,"Control",5
+188,1,2,1,2,2,"Less than once/week",11.78,"Control",3
+189,4,6,7,5,7,"Less than once/week",12.81,"Treatment",5
+190,2,3,4,1,3,"Less than once/week",5.29,"Control",3
+191,1,2,2,1,2,"Multiple times/week",23.42,"Treatment",4
+192,3,3,5,4,3,"About once/week",17.16,"Control",3
+193,5,6,7,6,7,"Less than once/week",13.36,"Treatment",5
+194,4,3,1,4,3,"Multiple times/week",22.71,"Treatment",3
+195,5,3,4,4,6,"About once/week",12.13,"Treatment",6
+196,2,1,1,4,2,"About once/week",18.29,"Control",2
+197,3,5,5,2,4,"Multiple times/week",14.78,"Control",5
+198,3,6,5,6,6,"Less than once/week",7.64,"Control",4
+199,7,3,6,3,7,"Multiple times/week",22.32,"Treatment",3
