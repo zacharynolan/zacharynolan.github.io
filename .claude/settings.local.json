@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Read(//Users/zach/Downloads/**)",
+      "Bash(cp \"/Users/zach/Downloads/GA student survey.docx\" ./survey.docx)",
+      "Bash(unzip -o -q survey.docx -d survey_x)"
+    ]
+  }
+}
